@@ -4,3 +4,5 @@
 
 Para ejecutar el sistema, debes poner:
 ```rpm install read´´´
+
+sistea de regisro 2
